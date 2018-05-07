@@ -1,0 +1,68 @@
+.home{
+	
+}
+
+.top-bar{
+	background: #8ed7ca; 
+}
+
+.top-bar-section{
+	background: #8ed7ca;
+
+}
+
+.top-bar img{
+
+	height: 40px;
+}
+
+.new .row{
+	max-width: none;
+}
+
+.sales .row{
+
+	max-width: none; 
+}
+
+.media .row{
+	max-width: none;
+}
+
+h1{
+	font-family: Alegreya SC;
+}
+
+h2, h3, h4, h5{
+
+	font-family: Kanit;
+
+}
+
+a{
+	font-family: Alegreya SC;
+}
+
+footer{
+	
+}
+
+footer p{
+
+	color: black;
+}
+
+footer .row{
+	max-width: none;
+}
+
+p{
+	font-family: Cardo;
+	font-size:  17px;
+}
+
+
+
+
+
+
